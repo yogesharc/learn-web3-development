@@ -1,5 +1,3 @@
-#Contributing Guidelines
-
 Thank you for contributing our resources.
 
 ## Guidelines
