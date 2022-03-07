@@ -15,6 +15,7 @@ ________________________________________________________________________________
 * [Tutorials](#tutorials)
 * [People in Web3](#people-in-web3)
 * [Blogs](#blogs)
+* [Project Ideas](#project-ideas)
 
 
 ## Websites
@@ -62,3 +63,7 @@ ________________________________________________________________________________
 * [The Past, Present, and Future of NFTs](https://www.web3.university/article/brief-history-of-nfts)
 * [What are ENS/.ETH Domains? Here's what you should know](https://remote3.co/blog-post/what-are-ens-domains-here-is-what-you-should-know)
 * [What is DeFi?](https://www.coinbase.com/learn/crypto-basics/what-is-defi)
+
+
+## Project Ideas 
+* Idea Name : Brief Description
