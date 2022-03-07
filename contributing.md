@@ -4,7 +4,7 @@ Thank you for contributing our resources.
 
 * One item per Pull Request.
 
-* Pull request should include a title and a link to the resource.
+* Pull request should include a title, link to the resource & a one liner (description).
 
 * The resource must be free or have a free tier.
 
