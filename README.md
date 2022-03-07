@@ -1,6 +1,6 @@
-# LearnWeb3Dev
+# Learn Web3 Dev
 
-LearnWeb3Dev is a curated list of resources to learn web3 development for free.
+Learn Web3 Dev is a curated list of resources to learn web3 development for free.
 
 ____________________________________________________________________________________________________________________________________________
 
@@ -16,6 +16,7 @@ ________________________________________________________________________________
 * [People in Web3](#people-in-web3)
 * [Blogs](#blogs)
 * [Project Ideas](#project-ideas)
+* [Contributors](#contributors)
 
 
 ## Websites
@@ -69,3 +70,7 @@ ________________________________________________________________________________
 
 ## Project Ideas 
 * Idea Name : Brief Description
+
+
+## Contributors
+Initial Contributor: [Yogesh](https://twitter.com/_justYogesh)
