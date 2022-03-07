@@ -47,6 +47,8 @@ ________________________________________________________________________________
 * [How To Create And Deploy An ERC20 Token – In 20 Minutes](https://vitto.cc/how-to-create-and-deploy-an-erc20-token-in-20-minutes/)
  : In this tutorial, you’re going to understand how to create a cryptocurrency using Solidity and the ERC20 Token standard maintained by OpenZeppelin.
 
+* [How to build autonomous, crypto-native off-chain services? (for Python Devs)](https://autonolas.medium.com/agent-dev-academy-everything-you-need-to-know-cc54b64d5a08)
+
 
 ## People in Web3
 
