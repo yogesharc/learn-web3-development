@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 If you like this repo, make sure to ⭐ it.
 
-Please read [contributing.md](https://github.com/yogeshdhakal/learn-web3-development/blob/main/contributing.md) guidelines before submitting new resources.
+Please read (contributing.md) guidelines before submitting new resources.
 ____________________________________________________________________________________________________________________________________________
 
 ## Table of Contents
@@ -61,4 +61,4 @@ ________________________________________________________________________________
 * [How to Find and Join a DAO?](https://remote3.co/blog-post/how-to-find-and-join-a-dao)
 * [The Past, Present, and Future of NFTs](https://www.web3.university/article/brief-history-of-nfts)
 * [What are ENS/.ETH Domains? Here's what you should know](https://remote3.co/blog-post/what-are-ens-domains-here-is-what-you-should-know)
-* [What is De-fi?](https://www.coinbase.com/learn/crypto-basics/what-is-defi)
+* [What is DeFi?](https://www.coinbase.com/learn/crypto-basics/what-is-defi)
