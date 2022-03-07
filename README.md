@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 If you like this repo, make sure to ⭐ it.
 
-Please read (contributing.md) guidelines before submitting new resources.
+Please read [Contributing.md](contributing.md) guidelines before submitting new resources.
 ____________________________________________________________________________________________________________________________________________
 
 ## Table of Contents
