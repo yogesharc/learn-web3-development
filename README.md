@@ -14,8 +14,9 @@ ________________________________________________________________________________
 * [Websites](#websites)
 * [Tutorials](#tutorials)
 * [People in Web3](#people-in-web3)
-* [Blogs](#blogs)
+* [Guides](#guides)
 * [Project Ideas](#project-ideas)
+* [Newsletters](#newsletters)
 * [Contributors](#contributors)
 
 
@@ -59,17 +60,36 @@ ________________________________________________________________________________
 * [Yogesh](https://twitter.com/_justYogesh), Founder at Remote3
 
 
-## Blogs
+## Guides
 
-* [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022)
+### DAOs
+* [What is a DAO? Why are DAO's Important?](https://remote3.co/blog-post/what-is-a-dao-why-are-daos-important)
 * [How to Find and Join a DAO?](https://remote3.co/blog-post/how-to-find-and-join-a-dao)
+
+### NFTs
 * [The Past, Present, and Future of NFTs](https://www.web3.university/article/brief-history-of-nfts)
-* [What are ENS/.ETH Domains? Here's what you should know](https://remote3.co/blog-post/what-are-ens-domains-here-is-what-you-should-know)
+* [What does it mean to mint an NFT?](https://remote3.co/blog-post/what-does-it-mean-to-mint-an-nft)
+
+### DeFi
 * [What is DeFi?](https://www.coinbase.com/learn/crypto-basics/what-is-defi)
+
+
+### Crypto
+* [What are Gas Fees in Crypto?](https://remote3.co/blog-post/what-are-gas-fees-in-crypto)
+
+### Miscellaneous
+* [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022)
+* [What are ENS/.ETH Domains? Here's what you should know](https://remote3.co/blog-post/what-are-ens-domains-here-is-what-you-should-know)
 
 
 ## Project Ideas 
 * Idea Name : Brief Description
+
+
+
+## Newsletters
+* [Ownership Economy](https://ownershipeconomy.substack.com) : Crypto exposed the power of the Ownership Economy, and more specifically, ownership-as-a-tool to drive users to contribute to protocols they use in deeper ways. Now, the opportunity is to follow the pattern, build more accessible products, and educate.
+
 
 
 ## Contributors
