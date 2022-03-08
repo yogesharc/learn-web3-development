@@ -19,6 +19,7 @@ ________________________________________________________________________________
 * [Newsletters](#newsletters)
 * [Contributors](#contributors)
 
+---
 
 ## Websites
 
@@ -34,6 +35,7 @@ ________________________________________________________________________________
 * [Moralis Blog](https://moralis.io/blog/)
  : Moralis has a ton of projects to learn & build dApps in minutes.
 
+---
 
 ## Tutorials
 
@@ -52,6 +54,8 @@ ________________________________________________________________________________
 * [How to build autonomous, crypto-native off-chain services?](https://autonolas.medium.com/agent-dev-academy-everything-you-need-to-know-cc54b64d5a08)
  : A structured, fast-track program that teaches Python devs how to build autonomous, crypto-native off-chain services.
 
+---
+
 ## People in Web3
 
 * [Anni](https://twitter.com/Anni_Maan), Founder at Codies Alert
@@ -59,6 +63,7 @@ ________________________________________________________________________________
 * [Vitto Rivabella](https://twitter.com/VittoStack), Dev Rel at Alchemy
 * [Yogesh](https://twitter.com/_justYogesh), Founder at Remote3
 
+---
 
 ## Guides
 
@@ -81,11 +86,12 @@ ________________________________________________________________________________
 * [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022)
 * [What are ENS/.ETH Domains? Here's what you should know](https://remote3.co/blog-post/what-are-ens-domains-here-is-what-you-should-know)
 
+---
 
 ## Project Ideas 
 * Idea Name : Brief Description
 
-
+---
 
 ## Newsletters
 * [Ownership Economy](https://ownershipeconomy.substack.com) : Crypto exposed the power of the Ownership Economy, and more specifically, ownership-as-a-tool to drive users to contribute to protocols they use in deeper ways. Now, the opportunity is to follow the pattern, build more accessible products, and educate.
