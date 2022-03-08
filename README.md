@@ -15,6 +15,7 @@ ________________________________________________________________________________
 * [Tutorials](#tutorials)
 * [People in Web3](#people-in-web3)
 * [Guides](#guides)
+* [Roadmaps](#roadmaps)
 * [Project Ideas](#project-ideas)
 * [Newsletters](#newsletters)
 * [Contributors](#contributors)
@@ -69,7 +70,10 @@ ________________________________________________________________________________
 
 ### DAOs
 * [What is a DAO? Why are DAO's Important?](https://remote3.co/blog-post/what-is-a-dao-why-are-daos-important)
+ : A DAO is simply a set or group of people that have reached an agreement or contract to pool their resources towards common goals and are governed by a standard set of rules.
 * [How to Find and Join a DAO?](https://remote3.co/blog-post/how-to-find-and-join-a-dao)
+ : Joining a DAO is far easier than joining a traditional board; you only need to purchase the token in most cases.
+
 
 ### NFTs
 * [The Past, Present, and Future of NFTs](https://www.web3.university/article/brief-history-of-nfts)
@@ -77,7 +81,7 @@ ________________________________________________________________________________
 
 ### DeFi
 * [What is DeFi?](https://www.coinbase.com/learn/crypto-basics/what-is-defi)
-
+ : DeFi (or “decentralized finance”) is an umbrella term for financial services on public blockchains, primarily Ethereum. With DeFi, you can do most of the things that banks support — earn interest, borrow, lend, buy insurance, trade derivatives, trade assets, and more — but it’s faster and doesn’t require paperwork or a third party.
 
 ### Crypto
 * [What are Gas Fees in Crypto?](https://remote3.co/blog-post/what-are-gas-fees-in-crypto)
@@ -85,6 +89,11 @@ ________________________________________________________________________________
 ### Miscellaneous
 * [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022)
 * [What are ENS/.ETH Domains? Here's what you should know](https://remote3.co/blog-post/what-are-ens-domains-here-is-what-you-should-know)
+
+---
+
+## Roadmaps
+Upcoming
 
 ---
 
