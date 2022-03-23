@@ -14,7 +14,7 @@ ________________________________________________________________________________
 * [Websites](#websites)
 * [Tutorials](#tutorials)
 * [People in Web3](#people-in-web3)
-* [Guides](#guides)
+* [Blogs](#blogs)
 * [Roadmaps](#roadmaps)
 * [Project Ideas](#project-ideas)
 * [Newsletters](#newsletters)
@@ -35,6 +35,9 @@ ________________________________________________________________________________
 
 * [Moralis Blog](https://moralis.io/blog/)
  : Moralis has a ton of projects to learn & build dApps in minutes.
+ 
+* [Smart Contract Engineer](https://www.smartcontract.engineer)
+ : Learn to code Solidity and Vyper
 
 ---
 
@@ -66,7 +69,7 @@ ________________________________________________________________________________
 
 ---
 
-## Guides
+## Blogs
 
 ### DAOs
 * [What is a DAO? Why are DAO's Important?](https://remote3.co/blog-post/what-is-a-dao-why-are-daos-important)
